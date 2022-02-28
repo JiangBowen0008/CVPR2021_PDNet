@@ -1,0 +1,12 @@
+# Checkpoints
+*.pth
+ckpt/*
+
+# Ipython notebook
+**/.ipynb_checkpoints
+
+# Python Cache
+**/__pycache__
+
+# Mac stuffs
+**/.DS_Store
